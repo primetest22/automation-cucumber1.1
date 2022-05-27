@@ -1,0 +1,566 @@
+2021-12-29 11:12:289 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 11:12:575 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (6a0098c3c1629efcb5c00918e40b1e85)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 11:12:798 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 11:12:834 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (5e88261e706647db7d0ff8600e7e1659)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 11:12:433 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 11:12:953 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (bd4c501efe0a5ce4ad78a874561ce317)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 11:12:901 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 11:12:87 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (eca4b7eba7460ccb3528d75a2e7904bf)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 11:12:190 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 11:12:43 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (7dfd9518a5679640601fafa68808bcb2)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 11:12:559 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 11:12:284 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (cfee12887e3f9f92650a8d46019896d1)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 12:12:220 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 12:12:629 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (37a1873cb21e4f80125e58effdf572d9)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 12:12:746 INFO  AuthPage :34 - Enter Email : qov9eolcek@gmail.com[[ChromeDriver: chrome on WINDOWS (37a1873cb21e4f80125e58effdf572d9)] -> xpath: //input[@id='email_create']]
+2021-12-29 12:12:849 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (37a1873cb21e4f80125e58effdf572d9)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 12:12:381 INFO  MyAccountPage :59 - Enter Firstname : kyabn[[ChromeDriver: chrome on WINDOWS (37a1873cb21e4f80125e58effdf572d9)] -> id: customer_firstname]
+2021-12-29 12:12:478 INFO  MyAccountPage :63 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (37a1873cb21e4f80125e58effdf572d9)] -> id: customer_lastname]
+2021-12-29 12:12:581 INFO  MyAccountPage :67 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (37a1873cb21e4f80125e58effdf572d9)] -> id: passwd]
+2021-12-29 12:12:697 INFO  MyAccountPage :71 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (37a1873cb21e4f80125e58effdf572d9)] -> id: address1]
+2021-12-29 12:12:796 INFO  MyAccountPage :75 - Enter City : london[[ChromeDriver: chrome on WINDOWS (37a1873cb21e4f80125e58effdf572d9)] -> id: city]
+2021-12-29 12:12:03 INFO  MyAccountPage :79 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (37a1873cb21e4f80125e58effdf572d9)] -> id: id_state]
+2021-12-29 12:12:90 INFO  MyAccountPage :83 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (37a1873cb21e4f80125e58effdf572d9)] -> id: postcode]
+2021-12-29 12:12:182 INFO  MyAccountPage :87 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (37a1873cb21e4f80125e58effdf572d9)] -> id: phone_mobile]
+2021-12-29 12:12:265 INFO  MyAccountPage :92 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (37a1873cb21e4f80125e58effdf572d9)] -> id: alias]
+2021-12-29 12:12:725 INFO  MyAccountPage :96 - Click register : [[ChromeDriver: chrome on WINDOWS (37a1873cb21e4f80125e58effdf572d9)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 12:12:631 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 12:12:798 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (127b73c857c7876add8d8b910d9b8c56)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 12:12:932 INFO  AuthPage :34 - Enter Email : 2qek4thhir@gmail.com[[ChromeDriver: chrome on WINDOWS (127b73c857c7876add8d8b910d9b8c56)] -> xpath: //input[@id='email_create']]
+2021-12-29 12:12:15 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (127b73c857c7876add8d8b910d9b8c56)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 12:12:586 INFO  MyAccountPage :59 - Enter Firstname : yrjzt[[ChromeDriver: chrome on WINDOWS (127b73c857c7876add8d8b910d9b8c56)] -> id: customer_firstname]
+2021-12-29 12:12:678 INFO  MyAccountPage :63 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (127b73c857c7876add8d8b910d9b8c56)] -> id: customer_lastname]
+2021-12-29 12:12:773 INFO  MyAccountPage :67 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (127b73c857c7876add8d8b910d9b8c56)] -> id: passwd]
+2021-12-29 12:12:929 INFO  MyAccountPage :71 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (127b73c857c7876add8d8b910d9b8c56)] -> id: address1]
+2021-12-29 12:12:45 INFO  MyAccountPage :75 - Enter City : london[[ChromeDriver: chrome on WINDOWS (127b73c857c7876add8d8b910d9b8c56)] -> id: city]
+2021-12-29 12:12:211 INFO  MyAccountPage :79 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (127b73c857c7876add8d8b910d9b8c56)] -> id: id_state]
+2021-12-29 12:12:302 INFO  MyAccountPage :83 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (127b73c857c7876add8d8b910d9b8c56)] -> id: postcode]
+2021-12-29 12:12:415 INFO  MyAccountPage :87 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (127b73c857c7876add8d8b910d9b8c56)] -> id: phone_mobile]
+2021-12-29 12:12:486 INFO  MyAccountPage :92 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (127b73c857c7876add8d8b910d9b8c56)] -> id: alias]
+2021-12-29 12:12:443 INFO  MyAccountPage :96 - Click register : [[ChromeDriver: chrome on WINDOWS (127b73c857c7876add8d8b910d9b8c56)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 12:12:984 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 12:12:189 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (0b6162a7ab75d4966a1666cf50a06667)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 12:12:312 INFO  AuthPage :34 - Enter Email : 9kxbr0w8vj@gmail.com[[ChromeDriver: chrome on WINDOWS (0b6162a7ab75d4966a1666cf50a06667)] -> xpath: //input[@id='email_create']]
+2021-12-29 12:12:385 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (0b6162a7ab75d4966a1666cf50a06667)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 12:12:858 INFO  MyAccountPage :59 - Enter Firstname : pdgeq[[ChromeDriver: chrome on WINDOWS (0b6162a7ab75d4966a1666cf50a06667)] -> id: customer_firstname]
+2021-12-29 12:12:950 INFO  MyAccountPage :63 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (0b6162a7ab75d4966a1666cf50a06667)] -> id: customer_lastname]
+2021-12-29 12:12:61 INFO  MyAccountPage :67 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (0b6162a7ab75d4966a1666cf50a06667)] -> id: passwd]
+2021-12-29 12:12:187 INFO  MyAccountPage :71 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (0b6162a7ab75d4966a1666cf50a06667)] -> id: address1]
+2021-12-29 12:12:384 INFO  MyAccountPage :75 - Enter City : london[[ChromeDriver: chrome on WINDOWS (0b6162a7ab75d4966a1666cf50a06667)] -> id: city]
+2021-12-29 12:12:482 INFO  MyAccountPage :79 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (0b6162a7ab75d4966a1666cf50a06667)] -> id: id_state]
+2021-12-29 12:12:576 INFO  MyAccountPage :83 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (0b6162a7ab75d4966a1666cf50a06667)] -> id: postcode]
+2021-12-29 12:12:666 INFO  MyAccountPage :87 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (0b6162a7ab75d4966a1666cf50a06667)] -> id: phone_mobile]
+2021-12-29 12:12:748 INFO  MyAccountPage :92 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (0b6162a7ab75d4966a1666cf50a06667)] -> id: alias]
+2021-12-29 12:12:34 INFO  MyAccountPage :96 - Click register : [[ChromeDriver: chrome on WINDOWS (0b6162a7ab75d4966a1666cf50a06667)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 12:12:694 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 12:12:970 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 12:12:103 INFO  AuthPage :34 - Enter Email : ty6ud5rit3@gmail.com[[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> xpath: //input[@id='email_create']]
+2021-12-29 12:12:184 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 12:12:110 INFO  MyAccountPage :60 - Enter Firstname : hfvjk[[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> id: customer_firstname]
+2021-12-29 12:12:215 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> id: customer_lastname]
+2021-12-29 12:12:324 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> id: passwd]
+2021-12-29 12:12:449 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> id: address1]
+2021-12-29 12:12:552 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> id: city]
+2021-12-29 12:12:712 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> id: id_state]
+2021-12-29 12:12:797 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> id: postcode]
+2021-12-29 12:12:886 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> id: phone_mobile]
+2021-12-29 12:12:973 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> id: alias]
+2021-12-29 12:12:261 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 12:12:306 INFO  MyAccountPage :114 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (d3ef91c600474a8652713f057d9cc6bb)] -> xpath: //a[@class='account']//span[1]]
+2021-12-29 12:12:202 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 12:12:202 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (2ee43f67aed853ded300e855c82569f9)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 12:12:336 INFO  AuthPage :34 - Enter Email : id7kpsihc7@gmail.com[[ChromeDriver: chrome on WINDOWS (2ee43f67aed853ded300e855c82569f9)] -> xpath: //input[@id='email_create']]
+2021-12-29 12:12:397 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (2ee43f67aed853ded300e855c82569f9)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 12:12:01 INFO  MyAccountPage :60 - Enter Firstname : kfgdl[[ChromeDriver: chrome on WINDOWS (2ee43f67aed853ded300e855c82569f9)] -> id: customer_firstname]
+2021-12-29 12:12:101 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (2ee43f67aed853ded300e855c82569f9)] -> id: customer_lastname]
+2021-12-29 12:12:220 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (2ee43f67aed853ded300e855c82569f9)] -> id: passwd]
+2021-12-29 12:12:355 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (2ee43f67aed853ded300e855c82569f9)] -> id: address1]
+2021-12-29 12:12:533 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (2ee43f67aed853ded300e855c82569f9)] -> id: city]
+2021-12-29 12:12:624 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (2ee43f67aed853ded300e855c82569f9)] -> id: id_state]
+2021-12-29 12:12:708 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (2ee43f67aed853ded300e855c82569f9)] -> id: postcode]
+2021-12-29 12:12:803 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (2ee43f67aed853ded300e855c82569f9)] -> id: phone_mobile]
+2021-12-29 12:12:886 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (2ee43f67aed853ded300e855c82569f9)] -> id: alias]
+2021-12-29 12:12:733 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (2ee43f67aed853ded300e855c82569f9)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 12:12:808 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 12:12:518 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (5ec00edeb78ff56b5befe868d532e038)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 12:12:218 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 12:12:560 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (3ddc446195526385f20199730288e9ad)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 12:12:700 INFO  AuthPage :34 - Enter Email : o8vxeqnur9@gmail.com[[ChromeDriver: chrome on WINDOWS (3ddc446195526385f20199730288e9ad)] -> xpath: //input[@id='email_create']]
+2021-12-29 12:12:772 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (3ddc446195526385f20199730288e9ad)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 12:12:511 INFO  MyAccountPage :60 - Enter Firstname : lcxxt[[ChromeDriver: chrome on WINDOWS (3ddc446195526385f20199730288e9ad)] -> id: customer_firstname]
+2021-12-29 12:12:619 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (3ddc446195526385f20199730288e9ad)] -> id: customer_lastname]
+2021-12-29 12:12:740 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (3ddc446195526385f20199730288e9ad)] -> id: passwd]
+2021-12-29 12:12:852 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (3ddc446195526385f20199730288e9ad)] -> id: address1]
+2021-12-29 12:12:952 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (3ddc446195526385f20199730288e9ad)] -> id: city]
+2021-12-29 12:12:116 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (3ddc446195526385f20199730288e9ad)] -> id: id_state]
+2021-12-29 12:12:201 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (3ddc446195526385f20199730288e9ad)] -> id: postcode]
+2021-12-29 12:12:292 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (3ddc446195526385f20199730288e9ad)] -> id: phone_mobile]
+2021-12-29 12:12:371 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (3ddc446195526385f20199730288e9ad)] -> id: alias]
+2021-12-29 12:12:613 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (3ddc446195526385f20199730288e9ad)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 12:12:194 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 12:12:177 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 12:12:315 INFO  AuthPage :34 - Enter Email : e3ajrriw1d@gmail.com[[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> xpath: //input[@id='email_create']]
+2021-12-29 12:12:391 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 12:12:220 INFO  MyAccountPage :60 - Enter Firstname : dpnax[[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> id: customer_firstname]
+2021-12-29 12:12:322 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> id: customer_lastname]
+2021-12-29 12:12:427 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> id: passwd]
+2021-12-29 12:12:551 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> id: address1]
+2021-12-29 12:12:655 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> id: city]
+2021-12-29 12:12:805 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> id: id_state]
+2021-12-29 12:12:886 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> id: postcode]
+2021-12-29 12:12:977 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> id: phone_mobile]
+2021-12-29 12:12:55 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> id: alias]
+2021-12-29 12:12:456 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 12:12:495 INFO  MyAccountPage :114 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (2e3ce1124e4c8ffaec04678d36f056d6)] -> xpath: //a[@class='account']//span[1]]
+2021-12-29 12:12:519 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 12:12:182 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (e43b815175391edda97b04b12310e6f3)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:560 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:351 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:463 INFO  AuthPage :34 - Enter Email : 12dmrbtrgn@gmail.com[[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> xpath: //input[@id='email_create']]
+2021-12-29 13:12:554 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 13:12:966 INFO  MyAccountPage :60 - Enter Firstname : hetjc[[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> id: customer_firstname]
+2021-12-29 13:12:53 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> id: customer_lastname]
+2021-12-29 13:12:158 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> id: passwd]
+2021-12-29 13:12:266 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> id: address1]
+2021-12-29 13:12:350 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> id: city]
+2021-12-29 13:12:568 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> id: id_state]
+2021-12-29 13:12:661 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> id: postcode]
+2021-12-29 13:12:745 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> id: phone_mobile]
+2021-12-29 13:12:833 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> id: alias]
+2021-12-29 13:12:868 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 13:12:913 INFO  MyAccountPage :114 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (5f35710d76d87e16395637497bfffcac)] -> xpath: //a[@class='account']//span[1]]
+2021-12-29 13:12:928 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:114 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (904a2c59e0e65f5a9ea94d59227b92aa)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:731 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:230 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (ddc58444d697ddbfd91c41ca94d18ce4)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:362 INFO  AuthPage :34 - Enter Email : 12dmrbtrgn@gmail.com[[ChromeDriver: chrome on WINDOWS (ddc58444d697ddbfd91c41ca94d18ce4)] -> xpath: //input[@id='email_create']]
+2021-12-29 13:12:431 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (ddc58444d697ddbfd91c41ca94d18ce4)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 13:12:538 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:491 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (5ede1bf3961875b8c07177ec710a9deb)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:538 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:873 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (439bde30a2ef4740af0ed27d1aa50740)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:996 INFO  AuthPage :34 - Enter Email : 12dmrbtrgn@gmail.com[[ChromeDriver: chrome on WINDOWS (439bde30a2ef4740af0ed27d1aa50740)] -> xpath: //input[@id='email_create']]
+2021-12-29 13:12:80 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (439bde30a2ef4740af0ed27d1aa50740)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 13:12:143 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:542 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:728 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:860 INFO  AuthPage :34 - Enter Email : 6jbie0u0pt@gmail.com[[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> xpath: //input[@id='email_create']]
+2021-12-29 13:12:936 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 13:12:571 INFO  MyAccountPage :60 - Enter Firstname : wasgd[[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> id: customer_firstname]
+2021-12-29 13:12:660 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> id: customer_lastname]
+2021-12-29 13:12:758 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> id: passwd]
+2021-12-29 13:12:888 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> id: address1]
+2021-12-29 13:12:980 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> id: city]
+2021-12-29 13:12:177 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> id: id_state]
+2021-12-29 13:12:263 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> id: postcode]
+2021-12-29 13:12:349 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> id: phone_mobile]
+2021-12-29 13:12:432 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> id: alias]
+2021-12-29 13:12:999 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 13:12:30 INFO  MyAccountPage :114 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (0104e9bb76b63306f331acb28ca2f64a)] -> xpath: //a[@class='account']//span[1]]
+2021-12-29 13:12:46 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:553 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (54e879ddd7285f132a84df14fb1e77ed)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:856 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:995 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (45bbdbb7c8ec37d008ab3ad4c89a819e)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:141 INFO  AuthPage :34 - Enter Email : 6jbie0u0pt@gmail.com[[ChromeDriver: chrome on WINDOWS (45bbdbb7c8ec37d008ab3ad4c89a819e)] -> xpath: //input[@id='email_create']]
+2021-12-29 13:12:222 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (45bbdbb7c8ec37d008ab3ad4c89a819e)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 13:12:304 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:673 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (de2ed9b562ad62cac1ce865a98affb59)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:527 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:422 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:558 INFO  AuthPage :34 - Enter Email : ws9rk8e7xw@gmail.com[[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> xpath: //input[@id='email_create']]
+2021-12-29 13:12:632 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 13:12:55 INFO  MyAccountPage :60 - Enter Firstname : gbfwj[[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> id: customer_firstname]
+2021-12-29 13:12:148 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> id: customer_lastname]
+2021-12-29 13:12:258 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> id: passwd]
+2021-12-29 13:12:382 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> id: address1]
+2021-12-29 13:12:487 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> id: city]
+2021-12-29 13:12:642 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> id: id_state]
+2021-12-29 13:12:734 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> id: postcode]
+2021-12-29 13:12:821 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> id: phone_mobile]
+2021-12-29 13:12:902 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> id: alias]
+2021-12-29 13:12:711 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 13:12:746 INFO  MyAccountPage :114 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (0a27de69668efcb66acb5bc609cb2bff)] -> xpath: //a[@class='account']//span[1]]
+2021-12-29 13:12:762 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:149 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (4d1b9d74f714b0e6c40222f91c018842)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:07 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:468 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:585 INFO  AuthPage :34 - Enter Email : p1vb4sl8uh@gmail.com[[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> xpath: //input[@id='email_create']]
+2021-12-29 13:12:678 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 13:12:974 INFO  MyAccountPage :60 - Enter Firstname : pilhq[[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> id: customer_firstname]
+2021-12-29 13:12:61 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> id: customer_lastname]
+2021-12-29 13:12:160 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> id: passwd]
+2021-12-29 13:12:276 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> id: address1]
+2021-12-29 13:12:369 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> id: city]
+2021-12-29 13:12:582 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> id: id_state]
+2021-12-29 13:12:670 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> id: postcode]
+2021-12-29 13:12:759 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> id: phone_mobile]
+2021-12-29 13:12:855 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> id: alias]
+2021-12-29 13:12:148 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 13:12:183 INFO  MyAccountPage :114 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (9cd8f37f790229c279d2093140e51852)] -> xpath: //a[@class='account']//span[1]]
+2021-12-29 13:12:198 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:771 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (6d35ef28705bea2d2acd0a84e3de26a8)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:816 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:25 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:171 INFO  AuthPage :34 - Enter Email : mqsnj7ttq3@gmail.com[[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> xpath: //input[@id='email_create']]
+2021-12-29 13:12:259 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 13:12:53 INFO  MyAccountPage :60 - Enter Firstname : ijsad[[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> id: customer_firstname]
+2021-12-29 13:12:141 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> id: customer_lastname]
+2021-12-29 13:12:250 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> id: passwd]
+2021-12-29 13:12:371 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> id: address1]
+2021-12-29 13:12:468 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> id: city]
+2021-12-29 13:12:794 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> id: id_state]
+2021-12-29 13:12:879 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> id: postcode]
+2021-12-29 13:12:971 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> id: phone_mobile]
+2021-12-29 13:12:55 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> id: alias]
+2021-12-29 13:12:157 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 13:12:194 INFO  MyAccountPage :114 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (92749460cd2d4a988af978a987cbeb8c)] -> xpath: //a[@class='account']//span[1]]
+2021-12-29 13:12:209 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:727 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (e3b4d61df0fc76d2ab5b12cb217109e3)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:499 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:667 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:807 INFO  AuthPage :34 - Enter Email : jddhg6f224@gmail.com[[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> xpath: //input[@id='email_create']]
+2021-12-29 13:12:878 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 13:12:469 INFO  MyAccountPage :60 - Enter Firstname : waouk[[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> id: customer_firstname]
+2021-12-29 13:12:578 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> id: customer_lastname]
+2021-12-29 13:12:680 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> id: passwd]
+2021-12-29 13:12:792 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> id: address1]
+2021-12-29 13:12:904 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> id: city]
+2021-12-29 13:12:55 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> id: id_state]
+2021-12-29 13:12:142 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> id: postcode]
+2021-12-29 13:12:229 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> id: phone_mobile]
+2021-12-29 13:12:318 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> id: alias]
+2021-12-29 13:12:309 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 13:12:345 INFO  MyAccountPage :114 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (29841a698fb9e15b1afffbc227109c84)] -> xpath: //a[@class='account']//span[1]]
+2021-12-29 13:12:361 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:127 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (53a500dcbf01687500ff5513e3bc30ac)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:228 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:312 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (f1170ec290566a7b3a037504eb3ada21)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:619 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:253 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:413 INFO  AuthPage :34 - Enter Email : b66gnaa736@gmail.com[[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> xpath: //input[@id='email_create']]
+2021-12-29 13:12:489 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 13:12:815 INFO  MyAccountPage :60 - Enter Firstname : nhaml[[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> id: customer_firstname]
+2021-12-29 13:12:910 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> id: customer_lastname]
+2021-12-29 13:12:13 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> id: passwd]
+2021-12-29 13:12:133 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> id: address1]
+2021-12-29 13:12:223 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> id: city]
+2021-12-29 13:12:439 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> id: id_state]
+2021-12-29 13:12:525 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> id: postcode]
+2021-12-29 13:12:620 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> id: phone_mobile]
+2021-12-29 13:12:713 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> id: alias]
+2021-12-29 13:12:967 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 13:12:03 INFO  MyAccountPage :114 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (99d51d4c1f75187f813152a3deba0dfb)] -> xpath: //a[@class='account']//span[1]]
+2021-12-29 13:12:19 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:369 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (224ee3b4c3dc916e2e70e2f6a8667229)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:372 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:901 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:13 INFO  AuthPage :34 - Enter Email : 0x11a3iyhs@gmail.com[[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> xpath: //input[@id='email_create']]
+2021-12-29 13:12:97 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-29 13:12:301 INFO  MyAccountPage :60 - Enter Firstname : mwvoy[[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> id: customer_firstname]
+2021-12-29 13:12:397 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> id: customer_lastname]
+2021-12-29 13:12:505 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> id: passwd]
+2021-12-29 13:12:620 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> id: address1]
+2021-12-29 13:12:734 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> id: city]
+2021-12-29 13:12:877 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> id: id_state]
+2021-12-29 13:12:972 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> id: postcode]
+2021-12-29 13:12:69 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> id: phone_mobile]
+2021-12-29 13:12:154 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> id: alias]
+2021-12-29 13:12:159 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> xpath: //span[normalize-space()='Register']]
+2021-12-29 13:12:192 INFO  MyAccountPage :114 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (b0dcce6b10d89977acb0420920753dec)] -> xpath: //a[@class='account']//span[1]]
+2021-12-29 13:12:207 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:954 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (18e3abf1d44988c98b048f6d8fd3957a)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:402 INFO  ContactPage :31 - Verify My Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (18e3abf1d44988c98b048f6d8fd3957a)] -> xpath: //div[@class='columns-container']//li[4]]
+2021-12-29 13:12:919 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 13:12:802 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (c0f64afe12ed0e642e6310ba160f73f5)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:115 INFO  ContactPage :32 - Verify My Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (c0f64afe12ed0e642e6310ba160f73f5)] -> xpath: //div[@class='columns-container']//li[4]]
+2021-12-29 14:12:891 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 14:12:967 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (7263e7ed1689508844a812e977dba6a5)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 14:12:714 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 14:12:455 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (eb8c5881363b1fdc2960f51dd5f1550f)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 14:12:14 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-29 14:12:595 INFO  HomePage :23 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (4c31077b69ffdddcf13ef0f5236e6d7f)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-31 08:12:887 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 08:12:906 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 08:12:227 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 08:12:114 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 08:12:237 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 08:12:379 INFO  AuthPage :34 - Enter Email : gs8ariip81@gmail.com[[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> xpath: //input[@id='email_create']]
+2021-12-31 08:12:459 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-31 08:12:31 INFO  MyAccountPage :60 - Enter Firstname : deexm[[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> id: customer_firstname]
+2021-12-31 08:12:126 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> id: customer_lastname]
+2021-12-31 08:12:227 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> id: passwd]
+2021-12-31 08:12:352 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> id: address1]
+2021-12-31 08:12:452 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> id: city]
+2021-12-31 08:12:721 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> id: id_state]
+2021-12-31 08:12:806 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> id: postcode]
+2021-12-31 08:12:908 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> id: phone_mobile]
+2021-12-31 08:12:990 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> id: alias]
+2021-12-31 08:12:527 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> xpath: //span[normalize-space()='Register']]
+2021-12-31 08:12:564 INFO  MyAccountPage :114 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (5417623d71ac03615ef43f93164fb3a1)] -> xpath: //a[@class='account']//span[1]]
+2021-12-31 08:12:516 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 08:12:46 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (630f4e8b3e8ffb5ccbfc81511dc31563)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 08:12:73 INFO  ContactPage :33 - Verify My Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (630f4e8b3e8ffb5ccbfc81511dc31563)] -> xpath: //ul[@class='last_item item box']]
+2021-12-31 08:12:927 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 08:12:889 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (a28ce9034420162c14473d108ad4b3d5)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 08:12:160 INFO  ProductPage :40 - Select Item from main menu : DRESSES<br>
+2021-12-31 08:12:960 INFO  ProductPage :54 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 09:12:714 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 09:12:530 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (4676f01741d773823567df33260aca33)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 09:12:467 INFO  ContactPage :33 - Verify My Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (4676f01741d773823567df33260aca33)] -> xpath: //ul[@class='last_item item box']]
+2021-12-31 09:12:341 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 09:12:181 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (6b2421a13bd8b3838e00d7fdf2306f8d)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 09:12:915 INFO  ProductPage :39 - Select Item from main menu : DRESSES<br>
+2021-12-31 09:12:485 INFO  ProductPage :53 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 09:12:681 INFO  ProductPage :39 - Select Item from main menu : WOMEN<br>
+2021-12-31 09:12:732 INFO  ProductPage :53 - Select Item from sub menu : TOPS<br>
+2021-12-31 09:12:432 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 09:12:151 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 09:12:397 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (718945b314f1752b816d9fd2805ef1c2)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 09:12:191 INFO  ProductPage :39 - Select Item from main menu : DRESSES<br>
+2021-12-31 09:12:33 INFO  ProductPage :53 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 09:12:220 INFO  ProductPage :39 - Select Item from main menu : WOMEN<br>
+2021-12-31 09:12:850 INFO  ProductPage :53 - Select Item from sub menu : TOPS<br>
+2021-12-31 09:12:985 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 09:12:88 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (58dd1f6dfc4a0b87a504a31b7a7c0e5f)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 09:12:981 INFO  ProductPage :42 - Select Item from main menu : DRESSES<br>
+2021-12-31 09:12:554 INFO  ProductPage :56 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 09:12:746 INFO  ProductPage :42 - Select Item from main menu : WOMEN<br>
+2021-12-31 09:12:392 INFO  ProductPage :56 - Select Item from sub menu : TOPS<br>
+2021-12-31 09:12:261 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 09:12:437 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (73fa14121a16e9de7bff8d6ea2329ec0)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 09:12:694 INFO  ProductPage :40 - Select Item from main menu : DRESSES<br>
+2021-12-31 09:12:33 INFO  ProductPage :54 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 09:12:741 INFO  ProductPage :40 - Select Item from main menu : WOMEN<br>
+2021-12-31 09:12:388 INFO  ProductPage :54 - Select Item from sub menu : TOPS<br>
+2021-12-31 09:12:987 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 09:12:164 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (4cafc505861a4aee1d36649d6e54cba1)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 09:12:35 INFO  ProductPage :44 - Select Item from main menu : DRESSES<br>
+2021-12-31 09:12:89 INFO  ProductPage :58 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 09:12:858 INFO  ProductPage :44 - Select Item from main menu : WOMEN<br>
+2021-12-31 09:12:337 INFO  ProductPage :58 - Select Item from sub menu : TOPS<br>
+2021-12-31 09:12:433 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 09:12:20 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (31902d32aa9c887309f141fb808ec03a)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 09:12:482 INFO  ProductPage :44 - Select Item from main menu : DRESSES<br>
+2021-12-31 09:12:874 INFO  ProductPage :58 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 09:12:243 INFO  ProductPage :44 - Select Item from main menu : WOMEN<br>
+2021-12-31 09:12:945 INFO  ProductPage :58 - Select Item from sub menu : TOPS<br>
+2021-12-31 09:12:178 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 09:12:461 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (388dfd0287f70d19c9cf025eb878a6c3)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 09:12:85 INFO  ProductPage :44 - Select Item from main menu : DRESSES<br>
+2021-12-31 09:12:159 INFO  ProductPage :58 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 09:12:285 INFO  ProductPage :44 - Select Item from main menu : WOMEN<br>
+2021-12-31 09:12:393 INFO  ProductPage :58 - Select Item from sub menu : TOPS<br>
+2021-12-31 10:12:119 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 10:12:62 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (934e1395849354083a8f49abe0cc3e0e)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 10:12:172 INFO  ProductPage :45 - Select Item from main menu : DRESSES<br>
+2021-12-31 10:12:466 INFO  ProductPage :59 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 10:12:678 INFO  ProductPage :45 - Select Item from main menu : WOMEN<br>
+2021-12-31 10:12:414 INFO  ProductPage :59 - Select Item from sub menu : TOPS<br>
+2021-12-31 10:12:412 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 10:12:341 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (b26ea1066b0847c05cf43b1d3b2413ac)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 10:12:439 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 10:12:21 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (2570ec1a90429eddfbb2ea43469e354e)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 10:12:461 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 10:12:397 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 10:12:845 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 10:12:686 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (55072d6fd80933a0acee68c88849519c)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 10:12:295 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 10:12:729 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 10:12:674 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 10:12:247 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 10:12:826 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 10:12:145 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (19a23a850315b015cf9888f4d8ae435b)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 10:12:643 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 10:12:376 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 10:12:775 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 10:12:188 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 11:12:32 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:09 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (b677a5cceab0bcdf204cbd828a110a3f)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 11:12:293 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 11:12:864 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 11:12:895 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 11:12:866 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 11:12:800 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:925 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (46a4a8fd7eef148a4f91ff94d17e7cd6)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 11:12:761 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 11:12:214 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 11:12:575 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:215 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (693b3e01886bd8089e53eda9c2e83a3f)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 11:12:479 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 11:12:604 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 11:12:461 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 11:12:35 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 11:12:357 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:813 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (9531049ad562d203067652542f0472f3)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 11:12:444 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 11:12:190 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 11:12:167 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 11:12:419 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 11:12:46 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:179 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (9dcecb5dd061697217445148ea63da6a)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 11:12:800 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 11:12:765 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 11:12:386 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 11:12:319 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 11:12:531 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:956 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (85b48968f47213133085ff5ee400a427)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 11:12:153 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:73 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:893 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:822 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (1ac5aaa5051d0bfb83d4c2e027cd943d)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 11:12:165 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:256 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:650 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (48c18e6868e5dbe1563f3ba8bc1e7c87)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 11:12:36 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:342 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:562 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (b284fdf2f49a52014357d8df30f59975)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 11:12:463 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 11:12:576 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 11:12:309 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 11:12:437 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 11:12:15 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 11:12:758 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (409890f8abe0042c7b42843b1a3c06a4)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 11:12:47 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 11:12:279 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 11:12:650 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 11:12:373 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 12:12:891 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 12:12:523 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (8e4fa77454258244085380860fb6aad4)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 12:12:97 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 12:12:40 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (c432830fd6a9fce1fd2bbf5205859508)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 12:12:319 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 12:12:714 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 12:12:952 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (030acdf10582beb8c6117729dae7dad7)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 12:12:00 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 12:12:871 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 12:12:279 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 12:12:609 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 12:12:665 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 12:12:792 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (0d19ec8d134d25b0eb0f62905c513bd1)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 12:12:85 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 12:12:964 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 12:12:895 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 12:12:244 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 12:12:358 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 12:12:128 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (8d3d96c533e4137c24f4673fa8493a1c)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 12:12:202 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 12:12:228 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 12:12:875 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 12:12:600 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 12:12:728 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 12:12:432 INFO  HomePage :25 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (72bd4034d37a055e3b9258275eaff696)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 12:12:74 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 12:12:308 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 12:12:90 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 12:12:774 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 13:12:331 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 13:12:105 INFO  HomePage :28 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 13:12:232 INFO  AuthPage :34 - Enter Email : kedji3x3fx@gmail.com[[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> xpath: //input[@id='email_create']]
+2021-12-31 13:12:334 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-31 13:12:504 INFO  MyAccountPage :60 - Enter Firstname : okaxd[[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> id: customer_firstname]
+2021-12-31 13:12:595 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> id: customer_lastname]
+2021-12-31 13:12:686 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> id: passwd]
+2021-12-31 13:12:819 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> id: address1]
+2021-12-31 13:12:912 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> id: city]
+2021-12-31 13:12:164 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> id: id_state]
+2021-12-31 13:12:247 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> id: postcode]
+2021-12-31 13:12:339 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> id: phone_mobile]
+2021-12-31 13:12:422 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> id: alias]
+2021-12-31 13:12:51 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> xpath: //span[normalize-space()='Register']]
+2021-12-31 13:12:95 INFO  MyAccountPage :114 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (8f921bb29d07332468a6414c051b1fb4)] -> xpath: //a[@class='account']//span[1]]
+2021-12-31 13:12:114 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 13:12:171 INFO  HomePage :28 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (6793f36151a61033d62712244d476344)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 13:12:647 INFO  MyAccountPage :131 - Verify My Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (6793f36151a61033d62712244d476344)] -> xpath: //ul[@class='last_item item box']]
+2021-12-31 13:12:693 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 13:12:879 INFO  HomePage :28 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (fca165463483fd618094bc749952c665)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 13:12:366 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 13:12:714 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 13:12:776 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 13:12:810 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 13:12:977 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 13:12:215 INFO  HomePage :28 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (e70e835dbeeb4b5ad31a6c9a32acc979)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 13:12:127 INFO  ContactPage :43 - verifying Customer Service Page text : CUSTOMER SERVICE - CONTACT US<br>
+2021-12-31 13:12:159 INFO  ContactPage :47 - choose a subject heading : Customer service<br>
+2021-12-31 13:12:250 INFO  ContactPage :52 - choose a order reference : <br>
+2021-12-31 13:12:243 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 13:12:318 INFO  HomePage :28 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 13:12:465 INFO  AuthPage :34 - Enter Email : akmuf6ux84@gmail.com[[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> xpath: //input[@id='email_create']]
+2021-12-31 13:12:541 INFO  AuthPage :39 - Click create account  : [[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-31 13:12:416 INFO  MyAccountPage :60 - Enter Firstname : lorud[[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> id: customer_firstname]
+2021-12-31 13:12:506 INFO  MyAccountPage :65 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> id: customer_lastname]
+2021-12-31 13:12:621 INFO  MyAccountPage :70 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> id: passwd]
+2021-12-31 13:12:740 INFO  MyAccountPage :75 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> id: address1]
+2021-12-31 13:12:824 INFO  MyAccountPage :80 - Enter City : london[[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> id: city]
+2021-12-31 13:12:38 INFO  MyAccountPage :85 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> id: id_state]
+2021-12-31 13:12:121 INFO  MyAccountPage :90 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> id: postcode]
+2021-12-31 13:12:216 INFO  MyAccountPage :95 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> id: phone_mobile]
+2021-12-31 13:12:296 INFO  MyAccountPage :100 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> id: alias]
+2021-12-31 13:12:878 INFO  MyAccountPage :105 - Click register : [[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> xpath: //span[normalize-space()='Register']]
+2021-12-31 13:12:904 INFO  MyAccountPage :114 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (fb0e01e78c1ecae0de14795b1b78bc42)] -> xpath: //a[@class='account']//span[1]]
+2021-12-31 13:12:948 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 13:12:324 INFO  HomePage :28 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (f4aa9a4bead8445b287233e597feee28)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 13:12:810 INFO  MyAccountPage :131 - Verify My Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (f4aa9a4bead8445b287233e597feee28)] -> xpath: //ul[@class='last_item item box']]
+2021-12-31 13:12:846 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 13:12:968 INFO  HomePage :28 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (6ac692442057780c4cb571f74ac83669)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 13:12:924 INFO  ProductPage :49 - Select Item from main menu : DRESSES<br>
+2021-12-31 13:12:682 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2021-12-31 13:12:184 INFO  ProductPage :49 - Select Item from main menu : WOMEN<br>
+2021-12-31 13:12:119 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2021-12-31 13:12:343 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-31 13:12:993 INFO  HomePage :28 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (7ac62239dc336d6cc4462616ef1ef563)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2021-12-31 13:12:336 INFO  ContactPage :43 - verifying Customer Service Page text : CUSTOMER SERVICE - CONTACT US<br>
+2021-12-31 13:12:375 INFO  ContactPage :47 - choose a subject heading : Customer service<br>
+2021-12-31 13:12:461 INFO  ContactPage :52 - choose a order reference : <br>
+2021-12-31 13:12:583 INFO  ContactPage :57 - choose a product : <br>
+2021-12-31 13:12:686 INFO  ContactPage :63 - input refund message : Please arrange refund of requested product<br>
+2021-12-31 13:12:810 INFO  ContactPage :68 - click on send button : [[ChromeDriver: chrome on WINDOWS (7ac62239dc336d6cc4462616ef1ef563)] -> xpath: //span[text()='Send']]<br>
+2022-05-27 21:05:845 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 21:05:468 INFO  HomePage :28 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2022-05-27 21:05:502 INFO  AuthPage :43 - Verify page : http://automationpractice.com/index.php?controller=authentication&back=my-account<br>
+2022-05-27 21:05:784 INFO  AuthPage :47 - Enter Email : 13eh8azoyi@gmail.com[[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> xpath: //input[@id='email_create']]<br>
+2022-05-27 21:05:991 INFO  AuthPage :51 - Clicking on create account : [[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2022-05-27 21:05:94 INFO  MyAccountPage :72 - Enter Firstname : mhcrt[[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> id: customer_firstname]<br>
+2022-05-27 21:05:345 INFO  MyAccountPage :77 - Enter Lastname : Peter[[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> id: customer_lastname]<br>
+2022-05-27 21:05:633 INFO  MyAccountPage :82 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> id: passwd]<br>
+2022-05-27 21:05:938 INFO  MyAccountPage :87 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> id: address1]<br>
+2022-05-27 21:05:184 INFO  MyAccountPage :92 - Enter City : london[[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> id: city]<br>
+2022-05-27 21:05:401 INFO  MyAccountPage :97 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> id: id_state]<br>
+2022-05-27 21:05:637 INFO  MyAccountPage :102 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> id: postcode]<br>
+2022-05-27 21:05:876 INFO  MyAccountPage :107 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> id: phone_mobile]<br>
+2022-05-27 21:05:74 INFO  MyAccountPage :112 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> id: alias]<br>
+2022-05-27 21:05:220 INFO  MyAccountPage :117 - Click register : [[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> xpath: //span[normalize-space()='Register']]<br>
+2022-05-27 21:05:321 INFO  MyAccountPage :123 - Verify Account name  : [[ChromeDriver: chrome on WINDOWS (9ee0d0e9e1ece01b2dd4eea589aa3eba)] -> xpath: //a[@class='account']//span[1]]<br>
+2022-05-27 21:05:151 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 21:05:22 INFO  HomePage :28 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (893f89ef0ca9dcd33a213ee9c2a7b85f)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2022-05-27 21:05:312 INFO  AuthPage :56 - Enter Random Email : 13eh8azoyi@gmail.com [[ChromeDriver: chrome on WINDOWS (893f89ef0ca9dcd33a213ee9c2a7b85f)] -> id: email]<br>
+2022-05-27 21:05:493 INFO  AuthPage :60 - Enter Password : Abc1234[[ChromeDriver: chrome on WINDOWS (893f89ef0ca9dcd33a213ee9c2a7b85f)] -> id: passwd]<br>
+2022-05-27 21:05:438 INFO  AuthPage :64 - Clicking on SignIn button : [[ChromeDriver: chrome on WINDOWS (893f89ef0ca9dcd33a213ee9c2a7b85f)] -> xpath: //span[text()[normalize-space()='Sign in']]]<br>
+2022-05-27 21:05:819 INFO  MyAccountPage :133 - Verify My Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (893f89ef0ca9dcd33a213ee9c2a7b85f)] -> xpath: //ul[@class='last_item item box']]<br>
+2022-05-27 21:05:659 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 21:05:642 INFO  HomePage :28 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (feec560fd3051156df1e49a8ad25f8d4)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2022-05-27 21:05:922 INFO  AuthPage :56 - Enter Random Email : 13eh8azoyi@gmail.com [[ChromeDriver: chrome on WINDOWS (feec560fd3051156df1e49a8ad25f8d4)] -> id: email]<br>
+2022-05-27 21:05:136 INFO  AuthPage :60 - Enter Password : Abc1234[[ChromeDriver: chrome on WINDOWS (feec560fd3051156df1e49a8ad25f8d4)] -> id: passwd]<br>
+2022-05-27 21:05:919 INFO  AuthPage :64 - Clicking on SignIn button : [[ChromeDriver: chrome on WINDOWS (feec560fd3051156df1e49a8ad25f8d4)] -> xpath: //span[text()[normalize-space()='Sign in']]]<br>
+2022-05-27 21:05:350 INFO  ProductPage :53 - Select Item from main menu : DRESSES<br>
+2022-05-27 21:05:301 INFO  ProductPage :63 - Select Item from sub menu : CASUAL DRESSES<br>
+2022-05-27 21:05:853 INFO  ProductPage :53 - Select Item from main menu : WOMEN<br>
+2022-05-27 21:05:248 INFO  ProductPage :63 - Select Item from sub menu : TOPS<br>
+2022-05-27 21:05:123 INFO  ShoppingCartPage :85 - Click Proceed to checkout btn : [[ChromeDriver: chrome on WINDOWS (feec560fd3051156df1e49a8ad25f8d4)] -> xpath: //span[text()='Proceed to checkout']]<br>
+2022-05-27 21:05:329 INFO  ShoppingCartPage :110 - Click Proceed to checkout btn on Address Page: [[ChromeDriver: chrome on WINDOWS (feec560fd3051156df1e49a8ad25f8d4)] -> xpath: //span[text()='Proceed to checkout']]<br>
+2022-05-27 21:05:523 INFO  ShoppingCartPage :90 - Click on Select Terms box : [[ChromeDriver: chrome on WINDOWS (feec560fd3051156df1e49a8ad25f8d4)] -> id: cgv]<br>
+2022-05-27 21:05:25 INFO  ShoppingCartPage :95 - Click Proceed to checkout btn on Shipping Page: [[ChromeDriver: chrome on WINDOWS (feec560fd3051156df1e49a8ad25f8d4)] -> xpath: //button[@name='processCarrier']//span[contains(text(),'Proceed to checkout')]]<br>
+2022-05-27 21:05:408 INFO  ShoppingCartPage :100 - Click on Pay by Check method: [[ChromeDriver: chrome on WINDOWS (feec560fd3051156df1e49a8ad25f8d4)] -> xpath: //a[@title='Pay by check.']]<br>
+2022-05-27 21:05:769 INFO  ShoppingCartPage :105 - Click to Confirm Order btn : [[ChromeDriver: chrome on WINDOWS (feec560fd3051156df1e49a8ad25f8d4)] -> xpath: //span[normalize-space()='I confirm my order']]<br>
+2022-05-27 21:05:860 INFO  ShoppingCartPage :115 - verifying Payment Method text : Your order on My Store is complete.<br>
+2022-05-27 21:05:670 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 21:05:746 INFO  HomePage :28 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (8cc52adc003c2298da42d842c500d0ac)] -> xpath: //a[normalize-space()='Sign in']]<br>
+2022-05-27 21:05:871 INFO  AuthPage :56 - Enter Random Email : 13eh8azoyi@gmail.com [[ChromeDriver: chrome on WINDOWS (8cc52adc003c2298da42d842c500d0ac)] -> id: email]<br>
+2022-05-27 21:05:980 INFO  AuthPage :60 - Enter Password : Abc1234[[ChromeDriver: chrome on WINDOWS (8cc52adc003c2298da42d842c500d0ac)] -> id: passwd]<br>
+2022-05-27 21:05:997 INFO  AuthPage :64 - Clicking on SignIn button : [[ChromeDriver: chrome on WINDOWS (8cc52adc003c2298da42d842c500d0ac)] -> xpath: //span[text()[normalize-space()='Sign in']]]<br>
+2022-05-27 21:05:470 INFO  HomePage :33 - Clicking on ContactUs Link : [[ChromeDriver: chrome on WINDOWS (8cc52adc003c2298da42d842c500d0ac)] -> xpath: //a[@title='Contact Us']]<br>
+2022-05-27 21:05:481 INFO  ContactPage :43 - verifying Customer Service Page text : CUSTOMER SERVICE - CONTACT US<br>
+2022-05-27 21:05:570 INFO  ContactPage :47 - choose a subject heading : Customer service<br>
+2022-05-27 21:05:800 INFO  ContactPage :52 - choose a order reference : <br>
+2022-05-27 21:05:109 INFO  ContactPage :57 - choose a product : <br>
+2022-05-27 21:05:333 INFO  ContactPage :62 - input refund message : Please arrange refund of requested product<br>
+2022-05-27 21:05:603 INFO  ContactPage :67 - click on send button : [[ChromeDriver: chrome on WINDOWS (8cc52adc003c2298da42d842c500d0ac)] -> xpath: //span[text()='Send']]<br>
